@@ -1,8 +1,8 @@
 ## Data Study Log (since 2021)
-데이터, 프로그래밍 관련 학습 기록을 적어둔 포트폴리오 repo입니다. 
+학부 4학년 시절인 2021년부터 데이터, 프로그래밍 관련 학습 기록을 적어둔 포트폴리오 repo입니다. 데이터, 프로그래밍 관련 공부 여정을 기록하는 공간입니다.
 
 ## Fundamental 기르기
-- 2024년부터 통계학, 계량경제, 컴퓨터과학 등 학습을 위한 추가 학위 과정 시작...
+- 수학 및 통계학, 백엔드 프로그래밍 기본기 쌓기 (기본기가 항상 중요!)
  
 ### Computer Science
 * 자료구조/알고리즘
@@ -23,4 +23,4 @@
 #### Personal Websites
 * Blog : https://velog.io/@hersheythings
 * Insta : https://www.instagram.com/hersheydevlog
-* 향후 CS, Stats, Finance 관련 공부 지속 예정...
+* CS, Stats, Finance 관련 공부는 평생 지속할 예정..
