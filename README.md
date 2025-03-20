@@ -21,7 +21,7 @@
 * 수리통계학
 * 최적화
 
-### Financial Engineering
+### Finance
 * 금융 및 경제 (계량투자, 계량경제, 금융공학)
 * 블록체인 및 암호화폐 (Ethereum, Solidity)
 
